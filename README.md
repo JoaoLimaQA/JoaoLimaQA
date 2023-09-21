@@ -18,4 +18,4 @@
      <img align="center" alt=appium src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div><br/>
 
-### Sou um profissional de QA com experiência em analise de testes manuais e de testes automatizados, requisitos e especificações, elaboração de casos de testes, homologação, vivência em metodologia Scrum, BDD com escrita em Gherkin, API’s Rest, Cucumber, Java utilizando JUnit 5 e Ruby com Rspec.
+### Sou um profissional de QA com experiência em analise de testes manuais e de testes automatizados, requisitos e especificações, elaboração de casos de testes, homologação, vivência em metodologia Scrum, BDD com escrita em Gherkin, API’s Rest, Cucumber, Selenium, Java utilizando JUnit 5 e Ruby com Rspec.
