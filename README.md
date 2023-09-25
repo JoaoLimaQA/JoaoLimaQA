@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/joão-paulo-socorro-lima-7915661a4/)
 
-![João Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaopaulinho1212&show_icons=true&theme=tokyonight)
+![João Paulo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLimaQA&show_icons=true&theme=tokyonight)
 
 ## O QUE EU USO NO MEU DIA!  
 
