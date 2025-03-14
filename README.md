@@ -18,4 +18,8 @@
      <img align="center" alt=appium src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 </div><br/>
 
-### Sou um profissional de QA com experiência em analise de testes manuais e de testes automatizados, requisitos e especificações, elaboração de casos de testes, homologação, vivência em metodologia Scrum, BDD com escrita em Gherkin, API’s Rest, Cucumber, Selenium, Java utilizando JUnit 5 e Ruby com Rspec.
+### Sou um Analista de Qualidade de Software (QA) com experiência em automação de testes e garantia de qualidade. Trabalho principalmente com RobotFramework, utilizando Selenium WebDriver para automação de testes web. Também tenho conhecimento em Java e Ruby, além de experiência com Cucumber para escrita de cenários em BDD (Behavior-Driven Development).
+
+Já atuei na configuração e gerenciamento de pipelines de CI/CD usando ferramentas como Jenkins e Azure DevOps, garantindo a integração contínua de testes e a entrega de produtos de alta qualidade.
+
+Meu foco é colaborar com equipes multidisciplinares para garantir que os produtos atendam aos requisitos de negócios e tenham a melhor qualidade possível. Estou sempre buscando aprender novas tecnologias e melhorar processos para entregar resultados eficientes e confiáveis.
